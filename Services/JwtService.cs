@@ -1,0 +1,1 @@
+namespace TravelApi.Services; public class JwtService {}

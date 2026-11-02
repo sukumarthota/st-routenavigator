@@ -1,0 +1,1 @@
+namespace TravelApi.Models; public class ApplicationUser {}

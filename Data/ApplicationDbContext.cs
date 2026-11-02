@@ -1,0 +1,1 @@
+namespace TravelApi.Data; public class ApplicationDbContext {}

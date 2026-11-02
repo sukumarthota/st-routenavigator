@@ -1,0 +1,1 @@
+namespace TravelApi.Models; public class TravelRequest { public int Id {get;set;} public string TravelerName {get;set;}=""; public string DestinationAddress {get;set;}=""; }
